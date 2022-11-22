@@ -26,3 +26,13 @@ lista demarcada
 - [ ] lista de tarefas
 - [X] item 1
 - [ ] item 2
+
+
+imagem - (arrastar imagem para o campo...somente nas issues)
+[link](caminho do link) - ...somente nas issues
+
+Coluna 1 | Coluna 2 | Coluna 3
+---|---|---
+1 | linha 1 | linha 1 | linha 1
+2 | linha 2 | linha 2 | linha 2
+3 | linha 3 | linha 3 | linha 3
