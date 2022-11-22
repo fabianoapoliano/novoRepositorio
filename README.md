@@ -36,3 +36,28 @@ Coluna 1 | Coluna 2 | Coluna 3
 1 | linha 1 | linha 1 | linha 1
 2 | linha 2 | linha 2 | linha 2
 3 | linha 3 | linha 3 | linha 3
+
+
+Para marcar comandas `document.getElementByld()` de linguagens de programação
+
+Para marcações maiores 
+```
+num = int(input)"Digite um valor:')
+if num %2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print (f'O valor é {num} é IMPAR')
+```
+
+> Usándo o sinal de ">"
+
+
+Dá pra resonder. 
+
+
+
+
+
+
+
+
